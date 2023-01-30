@@ -1,0 +1,108 @@
+html {
+	/*background-color: #C0DEED;*/
+}
+
+body {
+	font-family: "Gotham Narrow SSm",sans-serif,Arial;
+	font-size: 14px;
+	line-height: 18px;
+	background-image: url('https://abs.twimg.com/images/themes/theme1/bg.png');
+	background-repeat: no-repeat;
+	background-color: #C0DEED; /*theme color: #0084B4*/
+}
+
+a {
+	cursor: pointer;
+	text-decoration: none;
+	color: inherit;
+}
+
+
+		
+
+	#tweets-column {
+		width: 100%px;
+		margin: 0 10px;
+		justify-self: center;
+	}
+
+		.tweet-container {
+			border-left: 1px solid #e1e8ed;
+			border-right: 1px solid #e1e8ed;
+			min-height: 50px;
+		
+			font-family: "Helvetica Neue",Arial,sans-serif;
+			border-bottom: 1px solid #e1e8ed;
+			background-color: white;
+			cursor: pointer;
+			justify-self: center;
+		}
+
+		.tweet-container:hover {
+			background-color: #f5f8fa;
+		}
+
+		
+
+			.tweet-ahh {
+				margin-right: 209px;
+				font-size: 12px;
+				
+				margin-right: 100px;
+			}
+
+				.tweet-real-name {
+			
+					margin-right: 209px;
+					font-size: 12px;
+					
+					margin-right: 100px;
+				}
+
+				.tweet-username {
+					margin-right: 209px;
+					font-size: 12px;
+					color: #66757f;
+					margin-right: 100px;
+				}
+
+				.tweet-furniture {
+					color: #66757f;
+					font-size: 12px;
+					margin-left: 6px;
+					margin-top: 8px;
+				}
+
+				.tweet-furniture ul {
+					text-align: right;
+				}
+
+					.expand {
+						float: left;
+					}
+
+				.tweet-furniture li {
+					display: inline;
+					margin-right: 6px;
+					padding-right: 2px;
+				}
+
+				.tweet-furniture a {
+					color: #66757f;
+					opacity: 0.6;
+				}
+
+				.tweet-furniture a:hover {
+					opacity: 1;
+				}
+
+				.tweet-furniture img {
+					text-align: center;
+					margin-right: 5px;
+					margin-bottom: -3px;
+				}
+
+				
+
+
+
